@@ -1,0 +1,74 @@
+{
+  "negocio": {
+    "nombre": "Chicharronería La Flaquita",
+    "slogan": "El sabor de siempre, desde Majes",
+    "telefono": "919562339",
+    "whatsapp": "51919562339",
+    "direccion": "Av. Diagonal, Majes 04112, Pedregal, Arequipa",
+    "horario": {
+      "dias": "Todos los días",
+      "apertura": "8:00 am",
+      "cierre": "5:00 pm"
+    },
+    "googleMaps": "https://maps.app.goo.gl/Y27k738dHqgUfLLJ7",
+    "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15313.942151824998!2d-72.20288174991079!3d-16.34921049994295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91419b0027368327%3A0x4c3ddb59fca9e694!2sCHICHARRONERIA%20LA%20FLAQUITA!5e0!3m2!1ses-419!2spe!4v1781413296217!5m2!1ses-419!2spe"
+  },
+  "platos": [
+    {
+      "id": 1,
+      "nombre": "Chicharrón Pequeño",
+      "descripcion": "Porción individual con camote y cancha",
+      "precio": 15,
+      "emoji": "🥩",
+      "foto": null,
+      "opciones": []
+    },
+    {
+      "id": 2,
+      "nombre": "Chicharrón Mediano",
+      "descripcion": "Porción mediana con camote y cancha",
+      "precio": 17,
+      "emoji": "🥩",
+      "foto": null,
+      "opciones": []
+    },
+    {
+      "id": 3,
+      "nombre": "Chicharrón Grande con zarza",
+      "descripcion": "Porción grande con camote, cancha y zarza de cabeza",
+      "precio": 20,
+      "emoji": "🥩",
+      "foto": "img/chicharron-con-zarza.jpg",
+      "opciones": []
+    },
+    {
+      "id": 6,
+      "nombre": "Chicharrón Grande sin zarza",
+      "descripcion": "Porción grande con camote y cancha, sin zarza",
+      "precio": 20,
+      "emoji": "🥩",
+      "foto": "img/chicharron-sin-zarza.jpg",
+      "opciones": []
+    }
+  ],
+  "bebidas": [
+    {
+      "id": 4,
+      "nombre": "Chicha Morada",
+      "descripcion": "La clásica chicha morada bien fría",
+      "precio": 7,
+      "emoji": "🫗",
+      "foto": null,
+      "opciones": []
+    },
+    {
+      "id": 5,
+      "nombre": "Gaseosa",
+      "descripcion": "Inca Kola, Coca Cola o Sprite",
+      "precio": 3,
+      "emoji": "🥤",
+      "foto": null,
+      "opciones": []
+    }
+  ]
+}
